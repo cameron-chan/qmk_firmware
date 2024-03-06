@@ -9,6 +9,6 @@ for more options.
 #undef TAPPING_TERM
 #endif
 
-#define TAPPING_TERM 300
+#define TAPPING_TERM 250
 
 
